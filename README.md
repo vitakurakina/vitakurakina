@@ -8,5 +8,5 @@ I've been learning to code for 1 year and a half, and I think i'm doing GREAT
 
 * 🌍  I'm based in Oryol
 * ✉️  You can contact me at [v1takurakina@yandex.ru](mailto:v1takurakina@yandex.ru)
-* 🧠  I'm learning html
+* 🧠  I'm learning html atm
 * ⚡  I'm DEFINITELY NOT a spiderman. I'm not, I promice.
