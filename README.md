@@ -6,6 +6,6 @@ This is my account for "Website development and design" class
 
 I've been learning to code for 1 year and a half, and I think i'm doing GREAT
 
-You can contact me at [v1takurakina@yandex.ru](mailto:v1takurakina@yandex.ru)
-I'm learning html atm
-I'm DEFINITELY NOT a spiderman. I'm not, I promice.
+* You can contact me at [v1takurakina@yandex.ru](mailto:v1takurakina@yandex.ru)
+* I'm learning html atm
+* I'm DEFINITELY NOT a spiderman. I'm not, I promice.
