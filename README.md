@@ -1,8 +1,7 @@
-[](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
-<h1>Hello! My name is Vita Kurakina $${\color{red}My name is Vita Kurakina}$$<\h1>
+[](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hello! My name is Vita Kurakina
 
 This is my account for "Website development and design" class
--------------------------------------------------------------
+<hr>
 
 I've been learning to code for 1 year and a half, and I think i'm doing GREAT
 
