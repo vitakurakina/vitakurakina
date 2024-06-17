@@ -8,4 +8,3 @@ I've been learning to code for 2 years, and I think i'm doing GREAT
 * Learning html, css & js atm
 * You can contact me at [talina.krina@gmail.com](mailto:talina.krina@gmail.com)
 * I'm DEFINITELY NOT a spiderman. I'm not, I promice.
-* Can do digital art
