@@ -1,10 +1,11 @@
 [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hi there! My name is Vita Kurakina
 =====================================================================================================================================
-This is my account for "Website development and design" class
+Sophomore studying coding and math
 -------------------------------------------------------------
 
-I've been learning to code for 1 year and a half, and I think i'm doing GREAT
+I've been learning to code for 2 years, and I think i'm doing GREAT
 
-* You can contact me at [v1takurakina@yandex.ru](mailto:v1takurakina@yandex.ru)
-* I'm learning html atm
+* Learning html, css & js atm
+* You can contact me at [talina.krina@gmail.com](mailto:talina.krina@gmail.com)
 * I'm DEFINITELY NOT a spiderman. I'm not, I promice.
+* Can do digital art
