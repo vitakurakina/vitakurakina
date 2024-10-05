@@ -3,8 +3,8 @@
 Junior year OSU'26 studying coding and math
 -------------------------------------------------------------
 
-I've been learning to code for 2 years, and I think i'm doing GREAT
+I've been learning to code for 3 years, and I think i'm doing GREAT
 
-* Learning html, css & js atm
+* Learning php, java & mysql atm
 * You can contact me at [talina.krina@gmail.com](mailto:talina.krina@gmail.com)
-* I'm DEFINITELY NOT a spiderman. I'm not, I promice.
+* but actually i'm a rapper and digital artist lol
