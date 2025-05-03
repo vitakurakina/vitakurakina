@@ -5,7 +5,7 @@ Junior year OSU'26 studying coding and math
 
 I've been learning to code for 3 years, and I think i'm doing GREAT
 
-* Learning php, java & sql (and mysql) atm
-* Know c, c++ (qt included), html&css, a lil bit of js and python. Can do math with maple and octave
+* 
+* 
 * You can contact me at [talina.krina@gmail.com](mailto:talina.krina@gmail.com)
 * but actually i'm a rapper and digital artist lol
